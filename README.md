@@ -1,2 +1,4 @@
 # Pong-JavaScript
-jogo original: @willyan_dan
+jogo do Pong com JacaScript
+
+criador original: @willyan_dan
