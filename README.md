@@ -1,3 +1,6 @@
 # Pong-JavaScript
-jogo do Pong com JacaScript
+jogo do pong com javaScript
+
 criador original: @willyan_dan
+
+![gameScreen](./gamescreen.png)
